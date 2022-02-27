@@ -1,0 +1,327 @@
+{
+    "category_name": "Top Hits Radio",
+    "category_item": [
+        {
+            "item_name": "New Hits",
+            "item_img": "https://r2bpro.github.io/jsonapi/radioimage/New_hits_radio.jpg",
+            "item_station": [
+                {
+                    "name": "Big FM",
+                    "image": "https://1.bp.blogspot.com/-I113rgVk_yQ/X-dY5h0RalI/AAAAAAAAAXg/KtGxOt5Vh5Qc4q0WcOkyYpdFIdWedwESQCLcBGAsYHQ/s0/big-fm.png",
+                    "url": "https://radioindia.net/radio/sc-bb/icecast.audio",
+                    "location": "Mumbai, India",
+                    "band": "92.7 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Radio Selfie",
+                    "image": "https://liveradios.in/wp-content/uploads/radioselfie.jpg",
+                    "url": "https://streams.radio.co/s69032f19e/listen",
+                    "location": "Jaipur, Rajsthan, India",
+                    "band": "90.8 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Sayaji FM",
+                    "image": "https://liveradios.in/wp-content/uploads/Sayaji-FM.png",
+                    "url": "https://sayajifm.radioca.st/stream",
+                    "location": "Baroda, Gujrat, India",
+                    "band": "90.8 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Big Radio Online",
+                    "location": "Mumbai,India",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/db7dlzg4yaap.png",
+                    "url": "https://21293.live.streamtheworld.com/BIGRADIO_S01.mp3",
+                    "band": "92.7 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Radio Olive",
+                    "location": "Qatar, Dubai, UAE",
+                    "image": "https://liveradios.in/wp-content/uploads/OLIVE-logo.png",
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3",
+                    "band": "106.3 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "106.2 Big FM - Pure Love",
+                    "location": "Dubai, UAE",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/zwjsmnkj4cdu.png",
+                    "url": "https://funasia.streamguys1.com/live4",
+                    "band": "106.2 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Big 106.2 FM",
+                    "location": "Dubai, UAE",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/zwjsmnkj4cdu.png",
+                    "url": "https://funasia.streamguys1.com/live9",
+                    "band": "92.7 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Bolly 102.9 FM",
+                    "location": "Columbia",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ysuccjeaeqtv.png",
+                    "url": "https://stream.radio.co/s2562b6e3a/listen",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "DJ Upendra Rax",
+                    "location": "India",
+                    "image": "https://a10.gaanacdn.com/gn_img/albums/ZaP374RWDy/aP37LRjlWD/size_xxl.webp",
+                    "url": "https://stream.zeno.fm/2ew50c0619duv",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Suno 1024 (Mirchi 102.4)",
+                    "location": "Ras al-Khaimah, Dubai, UAE",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/akanwfbdks9m.png",
+                    "url": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1",
+                    "band": "102.4 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Kadak Fm",
+                    "location": "Dubai, UAE",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/34ukvzpesvlu.png",
+                    "url": "https://admdn7ta.cdn.mgmlcdn.com/mirchirdo/mirchirdo.stream_aac/chunklist.m3u8",
+                    "band": "102.4 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Radio Namkin",
+                    "location": "Mumbai, India",
+                    "image": "https://cdn-profiles.tunein.com/s302082/images/logog.png",
+                    "url": "https://stream.zenolive.com/yg1qhsbaqv5tv",
+                    "band": "online",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "New Hits Of Bollywood",
+                    "image": "https://imgproxy.zenomedia.com/insecure/fit/0/0/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDA9NX-3QgMCxIOU3RhdGlvblByb2ZpbGUYgICAgIC5hAoMogEEemVubw/microsite/background_image/",
+                    "url": "https://stream.zeno.fm/kr08sxc2tfeuv",
+                    "location": "India",
+                    "band": "online",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "XenFM Hindi New Sad",
+                    "location": "india",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSBH_XCo8l_VJ6LO8IMW8XcomqqYy90SKHmLJCIjT6snONoEPkYvxiMm0geIPnnMD0t8U&usqp=CAU",
+                    "url": "https://stream.zeno.fm/9gwvr3hegv8uv",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Radio Masti India (Love)",
+                    "location": "india",
+                    "image": "https://radiomalaysia.net/radio/fb/radio-masti-24x7-90904.png",
+                    "url": "https://stream.zeno.fm/rnnmpqxmdwzuv",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Indian Classic Radio",
+                    "location": "India",
+                    "image": "https://a10.gaanacdn.com/images/playlists/45/6540145/crop_480x480_6540145_1488966380.jpg",
+                    "url": "https://stream.zeno.fm/pz9rxanuvmzuv",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "BollyVibes Radio",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/bymgmbnutdh7.png",
+                    "url": "https://bollyvibes.radioca.st/stream",
+                    "location": "Toronto, Ontario, Canada",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Vibe FM - South Asian",
+                    "image": "https://dubaibliss.com/wp-content/uploads/2021/05/vibe.png",
+                    "url": "https://media.streambrothers.com:8346/vfm",
+                    "location": "Bringing, USE",
+                    "band": "105.4 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Radio Sargam",
+                    "image": "https://cdn-profiles.tunein.com/s247931/images/logog.jpg?t=15876",
+                    "url": "https://rs.suricloud.com/radio/8130/radio.mp3",
+                    "location": "Paramaribo, Suriname",
+                    "band": "89.3 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Spice 98.8 FM",
+                    "location": "Newcastle, UK",
+                    "image": "https://cdn-radiotime-logos.tunein.com/s116331g.png",
+                    "url": "https://spice988fm.radioca.st/stream",
+                    "band": "98.8 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Tune India Radio",
+                    "location": "Sydney, Australia",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/pdLYxmgsuN.png",
+                    "url": "https://s2.radio.co/se5e166e2f/listen",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Aakashvani 106.5 FM",
+                    "location": "Spain",
+                    "image": "https://radiosindia.com/images/aakashvani.jpg",
+                    "url": "https://audio-edge-fvq45.ams.d.radiomast.io/3ccc1156-fcf8-4ba7-9a0c-28e3a465e1ae?listening-from-radio-garden=1607152226837",
+                    "band": "106.5 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Radio 90.5 FM",
+                    "location": "Port Of Spain",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/Fh26XaXxAv.png",
+                    "url": "https://ice42.securenetsystems.net/CR90",
+                    "band": "90.5 FM",
+                    "language": "Hindi"
+                }
+            ]
+        },
+        {
+            "item_name": "Old Hits",
+            "item_img": "https://r2bpro.github.io/jsonapi/radioimage/Old_hits_radio.jpg",
+            "item_station": [
+                {
+                    "name": "Bollywood 90’s Hits",
+                    "location": "Mumbai",
+                    "image": "https://a10.gaanacdn.com/images/playlists/72/1239172/crop_480x480_1559221020_1239172.jpg",
+                    "url": "https://stream.zeno.fm/bu4vq0dwxwzuv",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Radio Olive Retro",
+                    "location": "Qatar, Dubai, UAE",
+                    "image": "https://liveradios.in/wp-content/uploads/RADIO-OLIVE-RETRO.png",
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_RETRO_S03_SC",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Hindi Songs (Romantic)",
+                    "location": "Web",
+                    "image": "https://a10.gaanacdn.com/images/playlists/13/1882313/crop_480x480_1609826254_1882313.jpg",
+                    "url": "https://stream.zeno.fm/143d7gty24zuv",
+                    "band": "online",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Bollywood Gold Revivals",
+                    "location": "Web",
+                    "image": "https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICAwNX5wwgMCxIOU3RhdGlvblByb2ZpbGUYgICAgKj1jAoMogEEemVubw/image/%3Fresize=500x500&v=1",
+                    "url": "https://stream.zeno.fm/0xsvm1nr7a5tv",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Old Jhankar Malhans",
+                    "location": "Canada",
+                    "image": "https://a10.gaanacdn.com/gn_img/albums/kGxbn03y4r/GxbnZpZaby/size_xxl.webp",
+                    "url": "https://stream.zeno.fm/2a5spg7xyp8uv",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Bollywood Gaane Purane",
+                    "location": "India",
+                    "image": "https://liveonlineradio.net/wp-content/uploads/2020/10/bollywood-gaane-purane.jpg",
+                    "url": "https://stream.zeno.fm/hem5rrfn07zuv",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "HawaMahal Radio",
+                    "image": "https://headfone-images.s3.amazonaws.com/channels/_6SeUDyvREW5l7y-vSNw1g-1579864752443.jpeg",
+                    "url": "https://stream.zeno.fm/zzv69u7sz1zuv",
+                    "location": "India",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Radio Badal",
+                    "image": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F0HasnR0PBq_MaRHOuJPfEEbxIucr8L0p96Hw6YXOR7w%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGdycnFma2dnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3drb0x5b0FrTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY0MTkwNjc1NjAwMA.webp&w=640&q=75",
+                    "url": "https://str3.openstream.co/1717",
+                    "location": "Zeno, India",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Indian Link Radio",
+                    "location": "Sydney, Australia",
+                    "image": "https://static-media.streema.com/media/cache/b5/6e/b56e532a7213dbf28f28aa636ddb3ea3.jpg",
+                    "url": "https://indianlink.radioca.st/streams/128kbps",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Radio Bula Masti",
+                    "location": "Fiji",
+                    "image": "https://radiosindia.com/images/radiobulamasti.jpg",
+                    "url": "https://c7.radioboss.fm:18052/stream",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Radio Aap Ki Awaz",
+                    "location": "Pakistan",
+                    "image": "https://radiosindia.com/images/908fm.jpg",
+                    "url": "https://streaming02.zfast.co.uk/proxy/akram?mp=/stream//?type=http",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Humm FM",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/jB7Xr58rYS.jpg",
+                    "url": "https://tunein-icecast.mediaworks.nz/humm_128kbps",
+                    "location": "New Zealand",
+                    "band": "106.2 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Intamixx Desi Radio",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ak2vhz8v7jbe.jpg",
+                    "url": "https://intamixx.no-ip.com:8002/;",
+                    "location": "London, England, United Kingdom",
+                    "band": "Web",
+                    "language": "Hindi"
+                }
+            ]
+        },
+        {
+            "item_name": "Live Talk Radio",
+            "item_img": "https://r2bpro.github.io/jsonapi/radioimage/Live_talk_radio.jpg",
+            "item_station": [
+                {
+                    "name": "Radio Mirchi (1310 AM)",
+                    "location": "Milpitas, California, United State",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/adjx7j5q754q.png",
+                    "url": "http://198.178.121.76:8091/stream",
+                    "band": "1310 AM",
+                    "language": "Indian"
+                },
+                {
+                    "name": "Hindvani - The Voice Of Hindi",
+                    "location": "Durban, South Africa",
+                    "image": "https://hindvani.co.za/wp-content/uploads/2020/11/appico.jpg",
+                    "url": "https://edge.iono.fm/xice/129_medium.aac",
+                    "band": "91.5 FM",
+                    "language": "Hindi"
+                }
+            ]
+        }
+    ]
+}

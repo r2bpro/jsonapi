@@ -1,0 +1,705 @@
+{
+    "category_name": "Indian Language",
+    "category_item": [
+        {
+            "item_name": "Hindi Radio",
+            "item_img": "https://r2bpro.github.io/jsonapi/radioimage/Hindi_Radio.jpg",
+            "item_station": [
+                {
+                    "name": "Radio Caravan",
+                    "language": "Hindi",
+                    "band": "1170 AM",
+                    "location": "North Texas",
+                    "image": "https://radiosindia.com/images/radiocaravan.jpg",
+                    "url": "https://stream.voxx.pro/radio/8260/radio.mp3"
+                },
+                {
+                    "name": "The Voice Of America - Urdu",
+                    "location": "Washington DC, USA",
+                    "image": "http://www.radioindialive.com/hungama-radios/images/hungamaradios/Hot%20Now%20Bollywood%20Hungama%20Radio.webp",
+                    "url": "https://n12.radiojar.com/zpd8p6fgq3quv?rj-ttl=5&rj-tok=AAABetBsdY0Al8Ea1wV_NvkAKg",
+                    "band": "Web",
+                    "language": "Urdu"
+                },
+                {
+                    "name": "Lyca Radio",
+                    "image": "https://cdn-profiles.tunein.com/s222213/images/logog.jpg?t=161238",
+                    "url": "https://listen-lycaradio.sharp-stream.com/1458.mp3",
+                    "location": "United Kingdom",
+                    "band": "1458 AM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Lyca Gold",
+                    "location": "United Kingdom",
+                    "image": "https://www.bizasialive.com/wp/wp-content/uploads/2019/07/lycadilse001.jpg",
+                    "url": "https://listen-lycaradio.sharp-stream.com/1035.mp3",
+                    "band": "1035 AM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Awaz 107.2 FM",
+                    "location": "Glasgow, Scotland",
+                    "image": "https://onlineradiofm.in/assets/image/radio/180/awazfmlogopink-wht-large_webaddr-blk.jpg",
+                    "url": "https://radioindia.net/radio/awazfm/icecast.audio",
+                    "band": "107.2 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Radio Awaz Dahod",
+                    "location": "Dahod, Gujrat, India",
+                    "image": "https://liveradios.in/wp-content/uploads/radioawaj.jpg",
+                    "url": "https://d25763qrelh4os.cloudfront.net/radioawaj.m3u8",
+                    "band": "90.8 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "EBC Radio",
+                    "location": "New Jersey, New York, America",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/r3RuxaYeR8.png",
+                    "url": "https://ice7.securenetsystems.net/WWTR?",
+                    "band": "1170 AM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Ujala Radio",
+                    "location": "Netherland",
+                    "image": "https://www.ujala.nl/wp-content/uploads/2017/02/cropped-ujala-logo_los-300x300.png",
+                    "url": "https://server4.ujala.nl/stream/2/listen.mp3",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Radio Shruti",
+                    "location": "India",
+                    "image": "https://radiosindia.com/images/radioshruti.jpg",
+                    "url": "https://rs.suricloud.com/radio/8000/radio.mp3",
+                    "band": "Web",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Lotus FM",
+                    "location": "South Africa",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/PMfdm6s9YD.png",
+                    "url": "https://21263.live.streamtheworld.com/LOTUSFMAAC_SC",
+                    "band": "87.7",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "Radio Just Music",
+                    "location": "Pakistan",
+                    "image": "https://radiosindia.com/images/1062.jpg",
+                    "url": "https://live.wostreaming.net/direct/humfm-fm1062mp3-ibc1",
+                    "band": "Web",
+                    "language": "Hindi/Urdu"
+                },
+                {
+                    "name": "Wazaa FM",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/yqlfgrrpcfs8.png",
+                    "url": "https://wazaafm.ice.infomaniak.ch/wazaafm-192.mp3",
+                    "location": "Port Louis, Mauritius",
+                    "band": "100.5 FM",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "CMR Hindi/Urdu",
+                    "language": "Hindi, Urdu",
+                    "band": "101.3 FM",
+                    "location": "Ontario, Canada",
+                    "image": "https://cmr24.net/assets/images/HINDI.png",
+                    "url": "https://radioindia.net/radio/cmrhindi/icecast.audio"
+                },
+                {
+                    "name": "EBC Radio",
+                    "language": "Hindi",
+                    "band": "1170 AM",
+                    "location": "New Jersey, New York, America",
+                    "image": "https://ebcmusic.com/wp-content/uploads/2020/07/Logo-EBC-2-1.png",
+                    "url": "https://ice7.securenetsystems.net/WWTR?"
+                },
+                {
+                    "name": "FM 24",
+                    "language": "Hindi",
+                    "band": "90.8 FM",
+                    "location": "Bhiwadi, India",
+                    "image": "https://liveradios.in/wp-content/uploads/fm24.jpg",
+                    "url": "https://d2datcy6bwvx8n.cloudfront.net/24network.m3u8"
+                },
+                {
+                    "name": "Radio Gunjan FM",
+                    "language": "Hindi",
+                    "band": "91.2 FM",
+                    "location": "Dharamshala, India",
+                    "image": "https://liveradios.in/wp-content/uploads/gunjanradio.jpg",
+                    "url": "https://d1x8rwjh55ffx2.cloudfront.net/gunjanradio.m3u8"
+                },
+                {
+                    "name": "Radio Tarana",
+                    "language": "Hindi",
+                    "band": "1386 AM",
+                    "location": "Auckland, Newzealand",
+                    "image": "https://static-media.streema.com/media/cache/e3/a1/e3a156ff6a77dee595376fdc5d295357.jpg",
+                    "url": "https://peridot.streamguys1.com:7150/Tarana.aac"
+                },
+                {
+                    "name": "Radio Noida",
+                    "language": "Hindi",
+                    "band": "107.4 FM",
+                    "location": "Noida, India",
+                    "image": "https://liveradios.in/wp-content/uploads/radionoida.jpg",
+                    "url": "https://stream.zenolive.com/n1b55arwqg0uv"
+                },
+                {
+                    "name": "Radio Pragya",
+                    "language": "Hindi",
+                    "band": "90.4 FM",
+                    "location": "Khusinagar, India",
+                    "image": "https://liveradios.in/wp-content/uploads/radiopragya.jpg",
+                    "url": "https://node-34.zeno.fm/g42tzhe29f8uv?rj-ttl=5&rj-tok=AAABfB3C5I4AbhWG6opy0WMynA"
+                },
+                {
+                    "name": "Radio Baingan",
+                    "image": "https://liveradios.in/wp-content/uploads/Radio-Baingan.jpg",
+                    "url": "https://stream.zeno.fm/eyxg23ky4x8uv",
+                    "location": "Rajshthan, India",
+                    "band": "Web",
+                    "language": "Hindi"
+                }
+            ]
+        },
+        {
+            "item_name": "Punjabi Radio",
+            "item_img": "https://r2bpro.github.io/jsonapi/radioimage/Punjabi_radio.jpg",
+            "item_station": [
+                {
+                    "name": "Avtar Radio",
+                    "language": "Hindi",
+                    "band": "90.4 FM",
+                    "location": "Seechewal, Punjab, India",
+                    "image": "https://liveradios.in/wp-content/uploads/avtarradio.jpg",
+                    "url": "https://radio.sanbroz.com/radio/8020/radio.mp3"
+                },
+                {
+                    "name": "CMR Punjabi",
+                    "language": "Punjabi",
+                    "band": "101.3 FM",
+                    "location": "Ontario, Canada",
+                    "image": "https://cmr24.net/assets/images/PUNJABIHD.png",
+                    "url": "https://live.cmr24.net/CMR/Punjabi-HQ/icecast.audio"
+                },
+                {
+                    "name": "Bollywood Punjabi Radio",
+                    "language": "Punjabi",
+                    "band": "web",
+                    "location": "Chandigarh, India",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/nf5dx9fjd5xa.png",
+                    "url": "https://stream.zeno.fm/1k0y9f0cm0quv"
+                },
+                {
+                    "name": "Bol Punjabi Radio",
+                    "language": "Punjabi",
+                    "band": "web",
+                    "location": "Chandigarh, India",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/g3WhNTFt6q.jpg",
+                    "url": "http://149.56.195.94:8322/;"
+                },
+                {
+                    "name": "KCVR Punjabi Radio USA",
+                    "language": "Punjabi",
+                    "band": "1570 AM",
+                    "location": "Modesto",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/AeEyFnmb8X.png",
+                    "url": "https://s5.voscast.com:9281/stream"
+                },
+                {
+                    "name": "CFSI-FM Radio Punjab",
+                    "language": "Punjabi",
+                    "band": "107.9 FM",
+                    "location": "Duncan",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/Rcm5JvbzQV.png",
+                    "url": "https://stream.zenolive.com/c0aaye918s5tv"
+                },
+                {
+                    "name": "Voice of Punjab Radio",
+                    "language": "Punjabi",
+                    "band": "24x7",
+                    "location": "online",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dctma5hzucqw.png",
+                    "url": "http://s47.myradiostream.com:12690/;"
+                },
+                {
+                    "name": "Puneri Awaz",
+                    "language": "Punjabi",
+                    "band": "107.8 FM",
+                    "location": "Pune, India",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/sxzxzjjnyn3r.png",
+                    "url": "https://icecast.bkwsu.eu/radio-awaz-pune16k.mp3"
+                },
+                {
+                    "name": "Brit Asia Radio",
+                    "language": "Punjabi",
+                    "band": "web",
+                    "location": "Punjab, India",
+                    "image": "https://liveradios.in/wp-content/uploads/britasiaradio.jpg",
+                    "url": "https://s4.radio.co/sfefce156f/listen"
+                }
+            ]
+        },
+        {
+            "item_name": "Marathi Radio",
+            "item_img": "https://r2bpro.github.io/jsonapi/radioimage/Marathi_radio.jpg",
+            "item_station": [
+                {
+                    "name": "Cotton City Akola",
+                    "language": "Marathi",
+                    "band": "90.4 FM",
+                    "location": "Online",
+                    "image": "https://liveradios.in/wp-content/uploads/cottancity-1.jpg",
+                    "url": "https://dczu40pz0y8z6.cloudfront.net/cottoncityakola.m3u8"
+                },
+                {
+                    "name": "Radio Sugar",
+                    "language": "Marathi",
+                    "band": "90.8 FM",
+                    "location": "Sangli, Maharashtra, India",
+                    "image": "https://liveradios.in/wp-content/uploads/radiosugar.jpg",
+                    "url": "https://cors.bitwize.com.lb/http://91.121.86.167:8157/stream"
+                },
+                {
+                    "name": "Radio Wardha",
+                    "language": "Marathi",
+                    "band": "90.8 FM",
+                    "location": "Wardha, Maharashtra, India",
+                    "image": "https://liveradios.in/wp-content/uploads/radiowardha-1.jpg",
+                    "url": "https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=8007&type=s1&fbclid=IwAR3Pi-68h7yOQEiq1GWGzcsq4o9fjXzT5dhIohtkxZ54--H6fsI52lvuwK8"
+                },
+                {
+                    "name": "Radio MGM 90.8",
+                    "language": "Marathi",
+                    "band": "90.8 FM",
+                    "location": "Aurangabad, Maharashtra, India",
+                    "image": "http://mgmradio.in/wp-content/uploads/2021/05/mgm-radio-aurangabad.png",
+                    "url": "http://streamasiacdn.atc-labs.com/mgmradio.aac?listening-from-radio-garden=1633125738"
+                },
+                {
+                    "name": "Radio Parbhani 90.8",
+                    "language": "Marathi",
+                    "band": "90.8 FM",
+                    "location": "Parbhani, Maharashtra, India",
+                    "image": "https://liveradios.in/wp-content/uploads/Radio-Parbhani.jpg",
+                    "url": "https://www.liveradio.es/http://85.25.185.202:8074/stream"
+                },
+                {
+                    "name": "Radio Vishwas 90.8",
+                    "language": "Marathi",
+                    "band": "90.8 FM",
+                    "location": "Nashik, Maharashtra, India",
+                    "image": "https://liveradios.in/wp-content/uploads/radiovishwas.png",
+                    "url": "https://dgnlfn5aus0c6.cloudfront.net/radiovishwas.m3u8"
+                },
+                {
+                    "name": "Marathi Tarang",
+                    "language": "Marathi",
+                    "band": "web",
+                    "location": "Sangli, Maharashtra, India",
+                    "image": "https://liveradios.in/wp-content/uploads/marathi-tarang.png",
+                    "url": "https://silverstream.radioca.st/;"
+                },
+                {
+                    "name": "Parijat Radio",
+                    "language": "Marathi",
+                    "band": "web",
+                    "location": "Ratnagiri, Maharashtra, India",
+                    "image": "https://liveradios.in/wp-content/uploads/prajit-radio.jpg",
+                    "url": "https://uk1.internet-radio.com/proxy/parijat?mp=/stream"
+                },
+                {
+                    "name": "Radio Saptarang",
+                    "language": "Marathi",
+                    "band": "web",
+                    "location": "Ratnagiri, Maharashtra, India",
+                    "image": "https://liveradios.in/wp-content/uploads/Radio-Saptarang.jpg",
+                    "url": "https://stream.zeno.fm/ttcsc4tf8yzuv"
+                },
+                {
+                    "name": "Radio Shivneri 90.4 FM",
+                    "language": "Marathi",
+                    "band": "90.4 FM",
+                    "location": "Junner, Maharashtra, India",
+                    "image": "https://liveradios.in/wp-content/uploads/shivneri.jpg",
+                    "url": "https://icecast.bkwsu.eu/radio-shivneri-junnar.mp3"
+                },
+                {
+                    "name": "Shripad Radio",
+                    "language": "Marathi",
+                    "band": "90.4 FM",
+                    "location": "Maharashtra, India",
+                    "image": "https://liveradios.in/wp-content/uploads/shripad-radio.jpg",
+                    "url": "https://stream.rcast.net/5719"
+                },
+                {
+                    "name": "Radio Vatsa Gulm",
+                    "language": "Marathi",
+                    "band": "90.8 FM",
+                    "location": "Maharashtra, India",
+                    "image": "https://liveradios.in/wp-content/uploads/radiovatsagulm-1.jpg",
+                    "url": "https://d2ne3h9hng9o8h.cloudfront.net/radiovatsagulm.m3u8"
+                },
+                {
+                    "name": "Radio Indus",
+                    "language": "Marathi",
+                    "band": "web",
+                    "location": "Maharashtra, India",
+                    "image": "https://liveradios.in/wp-content/uploads/radio-indus.jpg",
+                    "url": "https://uk1.internet-radio.com/proxy/parijat?mp=/stream"
+                },
+                {
+                    "name": "Radio Vidyavani",
+                    "language": "Marathi",
+                    "band": "107.4 FM",
+                    "location": "Maharashtra, India",
+                    "image": "https://liveradios.in/wp-content/uploads/vidyavani.jpg",
+                    "url": "http://vidyavani.unipune.ac.in:8000/stream"
+                },
+                {
+                    "name": "Radio Jayamala",
+                    "language": "Marathi",
+                    "band": "web",
+                    "location": "Maharashtra, India",
+                    "image": "https://liveradios.in/wp-content/uploads/radio-jayamala.jpg",
+                    "url": "https://uk2.internet-radio.com/proxy/radiojaymala?mp=/stream"
+                },
+                {
+                    "name": "Radio Chanderi Duniya",
+                    "language": "Marathi",
+                    "band": "web",
+                    "location": "Maharashtra, India",
+                    "image": "https://liveradios.in/wp-content/uploads/chanderi.jpg",
+                    "url": "https://stream.zeno.fm/mak1veqv78quv"
+                }
+            ]
+        },
+        {
+            "item_name": "Haryanvi Radio",
+            "item_img": "https://r2bpro.github.io/jsonapi/radioimage/Haryanvi_radio.jpg",
+            "item_station": [
+                {
+                    "name": "Radio Kasoot",
+                    "language": "Hariyanvi",
+                    "band": "web",
+                    "location": "Haryana, India",
+                    "image": "https://radiokasoot.com/logo.png",
+                    "url": "https://azuracast.radiokasoot.com/radio/8000/listen"
+                },
+                {
+                    "name": "Gurgaon Ki Awaaz",
+                    "language": "Hariyanvi",
+                    "band": "107.8 FM",
+                    "location": "Haryana, India",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/szvc4enawbcv.jpg",
+                    "url": "https://gurgaonradio.out.airtime.pro/gurgaonradio_a"
+                },
+                {
+                    "name": "Radio Dhaakad",
+                    "language": "Hariyanvi",
+                    "band": "24x7",
+                    "location": "Haryana, India",
+                    "image": "https://cdn.onlineradiobox.com/img/l/5/70795.v9.png",
+                    "url": "http://radiodhaakad.com:8000/live?type=.mp3"
+                },
+                {
+                    "name": "Radio Haryanvi",
+                    "language": "Hariyanvi",
+                    "band": "web",
+                    "location": "Hisar, Haryana, India",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/ultra-fast-browser.appspot.com/o/radio-haryanvi-header-image.png?alt=media&token=0b0bb6cb-fcc5-4e2b-8c38-248c41df6f5e",
+                    "url": "https://radioindia.net/radio/haraya/icecast.audio"
+                },
+                {
+                    "name": "Khas Haryanvi",
+                    "language": "Hariyanvi",
+                    "band": "web",
+                    "location": "Rohtak, Chandigarh, India",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/w7uf4q5yra2m.png",
+                    "url": "http://khasharyanvi.com:8000/live?type=.mp3"
+                },
+                {
+                    "name": "Radio Music Masala",
+                    "language": "Hariyanvi",
+                    "band": "web",
+                    "location": "Rohtak, Chandigarh, India",
+                    "image": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FDSjaojZuYiuKj2dkKvn_XWCf4I0IC9o9SNksVpIQZkE%2Frs%3Afit%3A64%3A64%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFE2SUtLbndvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFuSjNlMHdnTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT02NHg2NCZ1cGRhdGVkPTE2NDU5MjA5OTIwMDA.webp&w=64&q=75",
+                    "url": "https://stream.zeno.fm/6ugedtsgcd0uv"
+                },
+                {
+                    "name": "Sonipat Radio",
+                    "language": "Hariyanvi",
+                    "band": "web",
+                    "location": "Sonipat, Chandigarh, India",
+                    "image": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F62f8aOLaSCng6LCrHaAS6oBmWLX-TIMkRa5Mupn5HQs%2Frs%3Afit%3A288%3A288%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3c4TFhneFFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3dtSnFmc0FzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yODh4Mjg4JnVwZGF0ZWQ9MTY0NTc3MzA1NzAwMA.webp&w=384&q=75",
+                    "url": "https://stream.zeno.fm/epvg5yrraq8uv"
+                },
+                {
+                    "name": "Radio Aha",
+                    "language": "Hariyanvi",
+                    "band": "web",
+                    "location": "Austrelia",
+                    "image": "https://liveradios.in/wp-content/uploads/radioaha.jpg",
+                    "url": "https://c15.radioboss.fm:8137/stream"
+                }
+            ]
+        },
+        {
+            "item_name": "Bhojpuri Radio",
+            "item_img": "https://r2bpro.github.io/jsonapi/radioimage/Bhojpuri_radio.jpg",
+            "item_station": [
+                {
+                    "name": "Radio Rimjhim",
+                    "language": "Bhojpuri",
+                    "band": "90.4 FM",
+                    "location": "Gopalganj, Bihar, India",
+                    "image": "https://i1.sndcdn.com/artworks-000089551873-2qlf9w-t500x500.jpg",
+                    "url": "https://d2ful30tjo2nld.cloudfront.net/radiorimjhim.m3u8"
+                },
+                {
+                    "name": "HD Radio Bhojpuri",
+                    "language": "Bhojpuri",
+                    "band": "web",
+                    "location": "Bihar, India",
+                    "image": "https://liveradios.in/wp-content/uploads/hdradio.png",
+                    "url": "https://stream.zeno.fm/61792nbpubruv"
+                },
+                {
+                    "name": "Radio Jaagriti",
+                    "language": "Bhojpuri",
+                    "band": "90.4 FM",
+                    "location": "Giridih, Jharkhand, India",
+                    "image": "https://liveradios.in/wp-content/uploads/radiojagriti.jpg",
+                    "url": "https://stream.zenolive.com/q77h108mzk0uv"
+                },
+                {
+                    "name": "Radio Prabhat",
+                    "language": "Bhojpuri",
+                    "band": "web",
+                    "location": "Bihar, India",
+                    "image": "https://liveradios.in/wp-content/uploads/radio_prabhat.jpg",
+                    "url": "https://stream.zeno.fm/2u5wz5p37vzuv"
+                }
+            ]
+        },
+        {
+            "item_name": "Telugu Radio",
+            "item_img": "https://r2bpro.github.io/jsonapi/radioimage/telugu_radio.jpg",
+            "item_station": [
+                {
+                    "name": "Radio Ranjan Cards 90.4 FM",
+                    "band": "90.4 FM",
+                    "language": "Telugu",
+                    "location": "India",
+                    "image": "https://liveradios.in/wp-content/uploads/radioranjan.jpg",
+                    "url": "https://ranjan.radioca.st/stream"
+                },
+                {
+                    "name": "Swara Radio",
+                    "band": "web",
+                    "language": "Telugu",
+                    "location": "India",
+                    "image": "https://liveradios.in/wp-content/uploads/swararadio.jpg",
+                    "url": "https://s3.radio.co/s162c52c51/listen"
+                },
+                {
+                    "name": "AP9 FM",
+                    "band": "Web",
+                    "language": "Telugu",
+                    "location": "India",
+                    "image": "https://liveradios.in/wp-content/uploads/ap9fm.jpg",
+                    "url": "https://stream.ap9fm.in/radio/8000/radio.mp3"
+                }
+            ]
+        },
+        {
+            "item_name": "Tamil Radio",
+            "item_img": "https://r2bpro.github.io/jsonapi/radioimage/Tamil_radio.jpg",
+            "item_station": [
+                {
+                    "name": "Vasantham FM",
+                    "band": "Web",
+                    "language": "Tamil",
+                    "location": "Sri Lanka",
+                    "image": "https://liveradios.in/wp-content/uploads/vasanthamfm.jpg",
+                    "url": "https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream"
+                },
+                {
+                    "name": "Tamil Sun FM",
+                    "band": "Web",
+                    "language": "Tamil",
+                    "location": "India",
+                    "image": "https://liveradios.in/wp-content/uploads/tamil-sun-fm-new-logo.jpg",
+                    "url": "https://usa2.fastcast4u.com/proxy/tamilsun?mp=/;"
+                },
+                {
+                    "name": "Radio Gili",
+                    "band": "106.5 FM",
+                    "language": "Tamil",
+                    "location": "Ketka Jolly, UAE",
+                    "image": "https://liveradios.in/wp-content/uploads/radiogilli.jpg",
+                    "url": "https://livessl.rcast.net/stream/66462.mp3"
+                },
+                {
+                    "name": "Sahara FM",
+                    "band": "web",
+                    "language": "Tamil",
+                    "location": "Thambikottai Thanjavur, India",
+                    "image": "https://liveradios.in/wp-content/uploads/radiogilli.jpg",
+                    "url": "https://azuracast.vibesounds.in:8000/radio.mp3"
+                }
+            ]
+        },
+        {
+            "item_name": "Kannad Radio",
+            "item_img": "https://r2bpro.github.io/jsonapi/radioimage/Kannad_radio.jpg",
+            "item_station": [
+                {
+                    "name": "Namm Radio India",
+                    "image": "https://liveradios.in/wp-content/uploads/nammradio.jpg",
+                    "url": "https://strw1.openstream.co/1313",
+                    "location": "Kannada, India",
+                    "band": "Web",
+                    "language": "Kannad"
+                },
+                {
+                    "name": "Radio Sarang",
+                    "image": "https://liveradios.in/wp-content/uploads/radiosarang.jpg",
+                    "url": "https://sac-elearning.com/sarang",
+                    "location": "Kannada, India",
+                    "band": "Web",
+                    "language": "Kannad"
+                },
+                {
+                    "name": "BCU Radio",
+                    "image": "https://liveradios.in/wp-content/uploads/bcuradio.jpg",
+                    "url": "https://cors.bitwize.com.lb/http://radio.bcu.ac.in/radio/8000/radio.mp3",
+                    "location": "Bengaluru, Karnataka, India",
+                    "band": "Web",
+                    "language": "Kannad"
+                },
+                {
+                    "name": "Radio Panchajanya",
+                    "band": "90.8 FM",
+                    "language": "Kannad",
+                    "location": "Panchajanya, Karnataka, India",
+                    "image": "https://liveradios.in/wp-content/uploads/Radio-Panchajanya.jpg",
+                    "url": "https://cors.bitwize.com.lb/http://radio.bcu.ac.in/radio/8000/radio.mp3"
+                },
+                {
+                    "name": "Namma Dhwani 90.4",
+                    "band": "90.4 FM",
+                    "language": "Kannad",
+                    "location": "Kolar, Karnataka, India",
+                    "image": "https://liveradios.in/wp-content/uploads/namma-dhwani.png",
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2570499_SC"
+                }
+            ]
+        },
+        {
+            "item_name": "Malyalam Radio",
+            "item_img": "https://r2bpro.github.io/jsonapi/radioimage/telugu_radio.jpg",
+            "item_station": [
+                {
+                    "name": "Radio Green",
+                    "band": "Web",
+                    "language": "Malayalam",
+                    "location": "India",
+                    "image": "https://liveradios.in/wp-content/uploads/radiogreen.jpg",
+                    "url": "https://s3.streamworld.co.uk/radio/8020/radio.mp3"
+                },
+                {
+                    "name": "Gramaphone FM",
+                    "band": "Web",
+                    "language": "Malayalam",
+                    "location": "India",
+                    "image": "https://liveradios.in/wp-content/uploads/gramaphonefm.jpg",
+                    "url": "https://edge.mixlr.com/channel/axxln"
+                }
+            ]
+        },
+        {
+            "item_name": "Other Radio",
+            "item_img": "https://r2bpro.github.io/jsonapi/radioimage/Live_talk_radio.jpg",
+            "item_station": [
+                {
+                    "name": "Himachal Geet",
+                    "language": "Himachli",
+                    "band": "web",
+                    "location": "Himachal Pradesh, India",
+                    "image": "https://liveradios.in/wp-content/uploads/himachal-geet.jpg",
+                    "url": "https://cors.bitwize.com.lb/http://himachaligeet.com:8000/radio.mp3"
+                },
+                {
+                    "name": "Golden Goa",
+                    "language": "Konkani",
+                    "band": "web",
+                    "location": "Goa, India",
+                    "image": "https://liveradios.in/wp-content/uploads/goldengoa.jpg",
+                    "url": "https://radio.rixcast.com/radio/8000/radio.mp3"
+                },
+                {
+                    "name": "K Radio Konkani",
+                    "language": "Konkani",
+                    "band": "web",
+                    "location": "Manglore, Karnataka, India",
+                    "image": "https://liveradios.in/wp-content/uploads/kradio.jpg",
+                    "url": "https://radio.rixcast.com/radio/8010/radio.mp3"
+                },
+                {
+                    "name": "Sanskrit Radio",
+                    "language": "Sanskrit",
+                    "band": "web",
+                    "location": "Khandbahale, India",
+                    "image": "https://liveradios.in/wp-content/uploads/radiosanskrit.jpg",
+                    "url": "https://stream.zeno.fm/c0adewsyw8quv"
+                },
+                {
+                    "name": "Citizens Radio",
+                    "language": "Manipuri",
+                    "band": "web",
+                    "location": "Manipur, India",
+                    "image": "https://liveradios.in/wp-content/uploads/citizenradio.jpg",
+                    "url": "https://stream.zeno.fm/rr2my8sksp8uv"
+                },
+                {
+                    "name": "Diamond Radio",
+                    "language": "Manipuri",
+                    "band": "91.2 FM",
+                    "location": "Khongjom, Manipur, India",
+                    "image": "https://liveradios.in/wp-content/uploads/diamond-radio.jpg",
+                    "url": "https://khutsemlive.radioca.st/stream"
+                },
+                {
+                    "name": "Radio Jaras",
+                    "language": "Urdu",
+                    "band": "web",
+                    "location": "India",
+                    "image": "https://liveradios.in/wp-content/uploads/radiojaras.jpg",
+                    "url": "https://s5.voscast.com:9799/stream"
+                },
+                {
+                    "name": "Radio Junagadh Janvani 91.2 FM",
+                    "language": "Gujrati",
+                    "band": "91.2 FM",
+                    "location": "Gujrat, India",
+                    "image": "https://liveradios.in/wp-content/uploads/junagadh-janavani.jpg",
+                    "url": "https://stream.dbhatt.org/radio/8020/junagadh_janvani.mp3"
+                },
+                {
+                    "name": "Sheetal Sangeet",
+                    "language": "Gujrati",
+                    "band": "web",
+                    "location": "Canada",
+                    "image": "https://liveradios.in/wp-content/uploads/sheetalsangeet.jpg",
+                    "url": "https://24483.live.streamtheworld.com/SP_R3603688_SC"
+                }
+            ]
+        }
+    ]
+}
