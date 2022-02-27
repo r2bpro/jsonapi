@@ -23,7 +23,7 @@
                 },
                 {
                     "name": "Sayaji FM",
-                    "image": "https://liveradios.in/wp-content/uploads/Sayaji-FM.png",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/apfyvghgnbnr.png",
                     "url": "https://sayajifm.radioca.st/stream",
                     "location": "Baroda, Gujrat, India",
                     "band": "90.8 FM",
@@ -33,14 +33,14 @@
                     "name": "Big Radio Online",
                     "location": "Mumbai,India",
                     "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/db7dlzg4yaap.png",
-                    "url": "https://21293.live.streamtheworld.com/BIGRADIO_S01.mp3",
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BIGRADIO_S01.mp3",
                     "band": "92.7 FM",
                     "language": "Hindi"
                 },
                 {
                     "name": "Radio Olive",
                     "location": "Qatar, Dubai, UAE",
-                    "image": "https://liveradios.in/wp-content/uploads/OLIVE-logo.png",
+                    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/vzn5tr4cru4r.png",
                     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3",
                     "band": "106.3 FM",
                     "language": "Hindi"
