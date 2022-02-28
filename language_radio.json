@@ -413,7 +413,7 @@
                     "band": "web",
                     "location": "Hisar, Haryana, India",
                     "image": "https://firebasestorage.googleapis.com/v0/b/ultra-fast-browser.appspot.com/o/radio-haryanvi-header-image.png?alt=media&token=0b0bb6cb-fcc5-4e2b-8c38-248c41df6f5e",
-                    "url": "https://radioindia.net/radio/haraya/icecast.audio"
+                    "url": "http://weareharyanvi.com:8000/listen"
                 },
                 {
                     "name": "Khas Haryanvi",
