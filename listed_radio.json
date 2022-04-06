@@ -217,7 +217,7 @@
                     "band": "online",
                     "location": "Hungama, Mumbai",
                     "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/sgjkrL4YeY.jpeg",
-                    "url": "https://securestreams8.autopo.st:3003/1"
+                    "url": "https://103.16.47.70:7777/;stream.nsv"
                 },
                 {
                     "name": "Hungama Bollywood Dil Se",
@@ -249,7 +249,7 @@
                     "band": "Online",
                     "location": "Hungama, Mumbai",
                     "image": "https://liveonlineradio.net/wp-content/uploads/2021/03/hungama-best-of-indie-pop.jpg",
-                    "url": "https://securestreams8.autopo.st:3004/1"
+                    "url": "https://103.16.47.70:7333/;stream.nsv"
                 },
                 {
                     "name": "Hungama Dance Masti Bollywood",
@@ -265,7 +265,7 @@
                     "band": "Online",
                     "location": "Hungama, Mumbai",
                     "image": "https://static.mytuner.mobi/media/tvos_radios/gUnPyeckBn.jpeg",
-                    "url": "https://securestreams8.autopo.st:3006/1"
+                    "url": "https://103.16.47.70:7777/;stream.nsv"
                 },
                 {
                     "name": "Hungama Best of Ghazals",
