@@ -71,7 +71,7 @@
                 },
                 {
                     "name": "Yo! Punjabi Mirchi - Urban Beat",
-                    "language": "Hindi",
+                    "language": "Punjabi",
                     "band": "Online",
                     "location": "Radio Mirchi",
                     "image": "https://media.radiomirchi.com/onlinestation/banners/Yo!Punjabi980.jpg",
@@ -143,7 +143,7 @@
                 },
                 {
                     "name": "Mirchi Mumbai Marathi",
-                    "language": "Hindi",
+                    "language": "Marathi",
                     "band": "Online",
                     "location": "Radio Mirchi",
                     "image": "https://a10.gaanacdn.com/gn_img/m_radio_circle/Oxd3xP3gVY/Oxd3xP3gVY/size_l_1563783320.webp",
@@ -151,7 +151,7 @@
                 },
                 {
                     "name": "Mirchi Tamil Hits",
-                    "language": "Tami",
+                    "language": "Tamil",
                     "band": "Online",
                     "location": "Radio Mirchi",
                     "image": "https://media.radiomirchi.com/onlinestation/banners/TamilHits235.jpg",
@@ -167,7 +167,7 @@
                 },
                 {
                     "name": "Mirchi Kannada Hits",
-                    "language": "Hindi",
+                    "language": "Kannad",
                     "band": "Online",
                     "location": "Radio Mirchi",
                     "image": "https://a10.gaanacdn.com/gn_img/m_radio_circle/Dk9KN2KBx1/Dk9KN2KBx1/size_l_1563783758.webp",
@@ -175,7 +175,7 @@
                 },
                 {
                     "name": "Mirchi Telugu Love",
-                    "language": "Hindi",
+                    "language": "Telugu",
                     "band": "Online",
                     "location": "Radio Mirchi",
                     "image": "https://a10.gaanacdn.com/gn_img/m_radio_circle/zLp36v3rGe/zLp36v3rGe/size_l_1563783975.webp",
@@ -183,7 +183,7 @@
                 },
                 {
                     "name": "Mirchi English Love",
-                    "language": "Hindi",
+                    "language": "English",
                     "band": "Online",
                     "location": "Radio Mirchi",
                     "image": "https://media.radiomirchi.com/onlinestation/banners/EnglishLove662.jpg",
@@ -191,7 +191,7 @@
                 },
                 {
                     "name": "Mirchi English Retro",
-                    "language": "Hindi",
+                    "language": "English",
                     "band": "Online",
                     "location": "Radio Mirchi",
                     "image": "https://media.radiomirchi.com/onlinestation/banners/EnglishRetro874.jpg",
