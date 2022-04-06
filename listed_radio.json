@@ -27,7 +27,7 @@
                     "band": "Songs",
                     "location": "Mumbai",
                     "image": "https://media.radiomirchi.com/onlinestation/banners/Mirchi90s917.jpg",
-                    "url": "https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8"
+                    "url": "https://mirchiplaylive.akamaized.net/hls/live/2036929/MUM/MNINTS_Auto.m3u8"
                 },
                 {
                     "name": "Mirchi Toota Dil",
@@ -35,10 +35,18 @@
                     "band": "98.3 FM",
                     "location": "Radio Mirchi",
                     "image": "https://media.radiomirchi.com/onlinestation/banners/MirchiTootaDil.jpg",
-                    "url": "https://tootadil-lh.akamaihd.net/i/tootadil_1@42539/index_1_a-p.m3u8"
+                    "url": "https://mirchiplaylive.akamaized.net/hls/live/2036929/MUM/TOODIL_Auto.m3u8"
                 },
                 {
                     "name": "Club Mirchi (Party Mix 24x7)",
+                    "language": "Hindi",
+                    "band": "98.3 FM",
+                    "location": "Radio Mirchi",
+                    "image": "https://media.radiomirchi.com/onlinestation/banners/MirchiTootaDil.jpg",
+                    "url": "https://tootadil-lh.akamaihd.net/i/tootadil_1@42539/index_1_a-p.m3u8"
+                },
+                {
+                    "name": "Mirchi Club",
                     "language": "Hindi",
                     "band": "Online",
                     "location": "Radio Mirchi",
@@ -51,7 +59,7 @@
                     "band": "Online",
                     "location": "Radio Mirchi",
                     "image": "https://media.radiomirchi.com/onlinestation/banners/MirchiTop20651.jpg",
-                    "url": "https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8"
+                    "url": "https://mirchiplaylive.akamaized.net/hls/live/2036929/MUM/MTOP20_Auto.m3u8"
                 },
                 {
                     "name": "FILMY MIRCHI",
@@ -67,7 +75,7 @@
                     "band": "Online",
                     "location": "Radio Mirchi",
                     "image": "https://media.radiomirchi.com/onlinestation/banners/Yo!Punjabi980.jpg",
-                    "url": "https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8"
+                    "url": "https://mirchiplaylive.akamaized.net/hls/live/2036929/MUM/YOPJBI_Auto.m3u8"
                 },
                 {
                     "name": "Mirchi Devraag",
@@ -107,7 +115,7 @@
                     "band": "Online",
                     "location": "Radio Mirchi",
                     "image": "https://a10.gaanacdn.com/gn_img/m_radio_circle/01A3mrWNQX/01A3mrWNQX/size_m_1625039987.webp",
-                    "url": "https://campusradio-lh.akamaihd.net/i/CampusRadio_1@425040/master.m3u8"
+                    "url": "https://mirchiplaylive.akamaized.net/hls/live/2036929/MUM/CAMPUS_Auto.m3u8"
                 },
                 {
                     "name": "Mirchi Indies",
