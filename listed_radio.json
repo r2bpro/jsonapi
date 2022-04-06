@@ -19,7 +19,7 @@
                     "band": "Online",
                     "location": "Radio Mirchi",
                     "image": "https://media.radiomirchi.com/onlinestation/banners/MeethiMirchi344.jpg",
-                    "url": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8"
+                    "url": "https://mirchiplaylive.akamaized.net/hls/live/2036929/MUM/MEETHI96kbps.m3u8"
                 },
                 {
                     "name": "Mirchi 90’s Radio",
@@ -43,7 +43,7 @@
                     "band": "Online",
                     "location": "Radio Mirchi",
                     "image": "https://media.radiomirchi.com/onlinestation/banners/ClubMirchi165.jpg",
-                    "url": "https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/index_1_a-p.m3u8"
+                    "url": "https://mirchiplaylive.akamaized.net/hls/live/2036929/MUM/CLUBMI96kbps.m3u8"
                 },
                 {
                     "name": "Mirchi Top 20",
