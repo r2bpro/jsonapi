@@ -217,7 +217,7 @@
                     "band": "online",
                     "location": "Hungama, Mumbai",
                     "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/sgjkrL4YeY.jpeg",
-                    "url": "https://103.16.47.70:7777/;stream.nsv"
+                    "url": "https://103.16.47.70:7222/;stream.mp3"
                 },
                 {
                     "name": "Hungama Bollywood Dil Se",
