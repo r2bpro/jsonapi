@@ -12,7 +12,14 @@
                     "location": "North Texas",
                     "image": "https://radiosindia.com/images/radiocaravan.jpg",
                     "url": "https://stream.voxx.pro/radio/8260/radio.mp3"
-                },
+                }, 
+                {   "name":"Tarana Radio", 
+                    "language":"Hindi", 
+                    "band":"1386 AM", 
+                    "location":"Auckland", 
+                    "image" : "https://pbs.twimg.com/profile_images/1159215728135852032/z-dcWu1E_bigger.jpg", 
+                    "url":"https://peridot.streamguys1.com:7155/Tarana.aac"
+                }, 
                 {
                     "name": "The Voice Of America - Urdu",
                     "location": "Washington DC, USA",
