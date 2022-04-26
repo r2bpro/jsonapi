@@ -754,7 +754,20 @@
                 }
                 
             ]
-        },
+        },{
+            "item_name":" Sanyam Radio",
+            "item_img": "https://content.indiainfoline.com/_media/iifl/img/article/2020-12/07/full/1607334702-2388.png",
+            "item_station": [
+                {
+                    "name": "Sanyam Radio! - Radhey Shyam",
+                    "language": "Hindi",
+                    "band": "web",
+                    "location": "Gwalior,India",
+                    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-42753,resizemode-1,msid-71679895/industry/media/entertainment/radio-mirchi-not-just-a-radio-firm.jpg",
+                    "url": "https://stream.zeno.fm/kzkksc1hc18uv"
+                }
+]
+}, 
         {
             "item_name":"Exclusive Radio",
             "item_img":"https://mytuner.global.ssl.fastly.net/media/tvos_radios/3dte8qezghgd.png",
