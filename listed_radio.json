@@ -241,7 +241,7 @@
                     "band": "Online",
                     "location": "Hungama, Mumbai",
                     "image": "https://liveradios.in/wp-content/uploads/evergreenbollywood.jpg",
-                    "url": "https://radioindia.net/radio/hungama_evergreen_bollywood/icecast.audio"
+                    "url": "https://securestreams8.autopo.st:3002/1"
                 }, 
                 {
                     "name": "Hungama Best of Indie Pop",
@@ -249,7 +249,7 @@
                     "band": "Online",
                     "location": "Hungama, Mumbai",
                     "image": "https://liveonlineradio.net/wp-content/uploads/2021/03/hungama-best-of-indie-pop.jpg",
-                    "url": "https://103.16.47.70:7333/;stream.nsv"
+                    "url": "https://103.16.47.70:7111/;stream.nsv"
                 },
                 {
                     "name": "Hungama Dance Masti Bollywood",
@@ -265,7 +265,7 @@
                     "band": "Online",
                     "location": "Hungama, Mumbai",
                     "image": "https://static.mytuner.mobi/media/tvos_radios/gUnPyeckBn.jpeg",
-                    "url": "https://103.16.47.70:7777/;stream.nsv"
+                    "url": "https://securestreams8.autopo.st:3006/1"
                 },
                 {
                     "name": "Hungama Best of Ghazals",
